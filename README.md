@@ -2,7 +2,7 @@
 This assignment provides contact information and more about me.
 
 ## Author
-Logan (Praz 18)
+Logan (Praz 18): logandprasczewicz@lewisu.edu
 
 ## Credits
 This repository template was created by Eric Pogue. Credits to ChatGPT for prompt information. Credits to GitHub and GitPages for hosting the site.
